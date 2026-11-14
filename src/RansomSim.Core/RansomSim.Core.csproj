@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>RansomSim.Core</RootNamespace>
+    <AssemblyName>RansomSim.Core</AssemblyName>
+    <!-- Secure randomness + AES work everywhere; no platform-specific APIs here. -->
+  </PropertyGroup>
+
+</Project>

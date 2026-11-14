@@ -1,0 +1,12 @@
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\bin\Debug\net8.0\RansomSim.Core.deps.json
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\bin\Debug\net8.0\RansomSim.Core.dll
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\bin\Debug\net8.0\RansomSim.Core.pdb
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSim.Core.AssemblyInfoInputs.cache
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSim.Core.AssemblyInfo.cs
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSim.Core.csproj.CoreCompileInputs.cache
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSim.Core.dll
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\refint\RansomSim.Core.dll
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSim.Core.pdb
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\ref\RansomSim.Core.dll
+C:\Users\emmie\Desktop\RansomSim\src\RansomSim.Core\obj\Debug\net8.0\RansomSi.FA0918EF.Up2Date
